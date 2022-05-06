@@ -20,5 +20,9 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Demo URL
+```
+https://shiny-blini-c59701.netlify.app/login
+username: admin
+password: admin@123
+```
